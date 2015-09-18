@@ -35,7 +35,7 @@
 
 ## Scopus
 
-* Программирование (http://www.ispras.ru/programming/) — ИСП РАН.
+* Программирование ([сайт](http://www.ispras.ru/programming/)) — ИСП РАН.
  
 ## ВАК
 
