@@ -6,7 +6,7 @@
 
 * POPL: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages ([2016](http://conf.researchr.org/home/POPL-2016), [2015](http://popl.mpi-sws.org/2015/)) — январь.
 
-* SNAPL: The Inaugural Summit oN Advances in Programming Languages ([2015](http://snapl.org/2015/index.html)) — [новая](http://lambda-the-ultimate.org/node/5067) конференция, пока проходила только раз, в 2015, будет ли дальше ­неизвестно; май.
+* SNAPL: The Inaugural Summit on Advances in Programming Languages ([2015](http://snapl.org/2015/index.html)) — [новая](http://lambda-the-ultimate.org/node/5067) конференция, пока проходила только раз, в 2015, будет ли дальше ­неизвестно; май.
 
 * SPLASH: Systems, Programming, Languages and Applications: Software for Humanity (включая OOPSLA; [2016](http://2016.splashcon.org/), [2015](http://2015.splashcon.org/)) — ноябрь.
 
