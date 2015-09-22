@@ -63,3 +63,9 @@
 * MSG: Midlands Graduate School in the Foundations of Computing Science ([2015](http://staffwww.dcs.shef.ac.uk/people/G.Struth/mgs2015/mgs.html), [сайт](http://www.cs.nott.ac.uk/MGS)) — апрель.
 
 * Oregon: Летняя школа по ЯП в Орегоне ([сайт](http://www.cs.uoregon.edu/research/summerschool)) — июнь.
+
+## ЯП-отделения факультетов информатики
+
+Здесь хотелось бы собрать ссылки на наиболее значимые университетские научные группы, проводящие исследования в области языков программирования.
+
+* [Оксфорд, CS-департамент, групппа PL](http://www.cs.ox.ac.uk/research/pl/).
