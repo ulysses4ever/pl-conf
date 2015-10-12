@@ -16,6 +16,8 @@
 
 * PADL: Practical Aspects of Declarative Languages ([2016](http://conf.researchr.org/home/PADL-2016), [2015](http://www.cs.nmsu.edu/padl15/)) — январь.
 
+* PPDP: Principles and Practice of Declarative Programming ([2016](http://costa.ls.fi.upm.es/ppdp15/)) — июль.
+
 * ICFP: The ACM SIGPLAN International Conference on Functional Programming ([сайт](http://www.icfpconference.org/)) + ценные страницы со списками конференций и семинаров “[related](http://www.icfpconference.org/related.html)” (часть из них перечислена в нашем списке) и “[affiliated](http://www.icfpconference.org/affiliated.html)” — сентябрь.
 
 ### Объектно-ориентированные языки
