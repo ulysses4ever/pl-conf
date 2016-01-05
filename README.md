@@ -16,7 +16,7 @@
 
 * PADL: Practical Aspects of Declarative Languages ([2016](http://conf.researchr.org/home/PADL-2016), [2015](http://www.cs.nmsu.edu/padl15/)) — январь.
 
-* MSFP: Workshop on Mathematically Structured Functional Programming ([2016](http://msfp2016.bentnib.org/)) — апрель, в рамках [ETAPS](http://www.etaps.org/).
+* MSFP: Workshop on Mathematically Structured Functional Programming ([2016](http://msfp2016.bentnib.org/)) — апрель раз в два года, в рамках [ETAPS](http://www.etaps.org/).
 
 * PPDP: Principles and Practice of Declarative Programming ([2015](http://costa.ls.fi.upm.es/ppdp15/)) — июль.
 
