@@ -28,6 +28,12 @@
 
 * OOPSLA: Object-Oriented Programming, Systems, Languages & Applications — см. выше SPLASH.
 
+## Региональные конференции
+
+* SBLP: Brazilian Symposium on Programming Languages ([2016](http://cbsoft.org/sblp2016)) — сентябрь.
+
+* APLAS: Asian Symposium on Programming Languages and Systems ([2016](http://soict.hust.edu.vn/~aplas2016/)) — ноябрь.
+
 ## Российские конференции
 
 * CSR: International Computer Science Symposium in Russia ([2016](http://logic.pdmi.ras.ru/csr2016/), [2015](http://logic.pdmi.ras.ru/csr2015/)) — конференция с чётким уклоном в алгоритмы и сложность; июнь.
@@ -37,7 +43,6 @@
 * Современные информационные технологии и ИТ-образование (секция «Теоретическая информатика и компьютерные науки», [сайт](http://conf.it-edu.ru/)) — ноябрь.
 
 * Открытая конференция по компиляторным технологиям ([сайт](http://opencompilersconf.ru/)) — декабрь.
-
 
 ## Российские журналы
 
