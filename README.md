@@ -1,46 +1,52 @@
-В этом файле собраны научные конференций по языкам программирования (ЯП), а также сопутствующие летние и прочие школы. В каждом разделе упорядочение производится, насколько возможно, в хронологическом порядке (январские конференции указаны раньше февральских и т. п.). 
+В этом файле собраны научные конференций по языкам программирования (ЯП), а также сопутствующие летние и прочие школы. В каждом разделе упорядочение производится, насколько возможно, в хронологическом порядке (январские конференции указаны раньше февральских и т. п.). Дополнительную информацию о проведении многих конференций можно получить на портале [WikiCfP](http://www.wikicfp.com/cfp/) (присутствует категоризация: к пример, [категория ЯП](http://www.wikicfp.com/cfp/call?conference=programming%20languages)).
 
 Нас серьёзно заботит российская научная действительность, в которой отсутствует такая тема как ЯП, потому мы приводим наиболее авторитетные российские конференции и журналы по информатике, где (как мы надеемся) могли бы быть приняты работы по ЯП. Источником журналов такого рода для нас является в первую очередь [mathnet.ru](http://www.mathnet.ru/). Для удобства журналы разделены по традиционноу принципу (не)включения в реферативные базы и список ВАК.
 
 ## Специализированные конференции по ЯП
 
-* POPL: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages ([2016](http://conf.researchr.org/home/POPL-2016), [2015](http://popl.mpi-sws.org/2015/)) — январь.
+### Четыре главные конференции
 
-* SNAPL: The Inaugural Summit on Advances in Programming Languages ([2015](http://snapl.org/2015/index.html)) — [новая](http://lambda-the-ultimate.org/node/5067) конференция прошла впервые в 2015, её планируется устраивать раз в два года; май.
+* **POPL**: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages ([2016](http://conf.researchr.org/home/POPL-2016), [2015](http://popl.mpi-sws.org/2015/)) — январь.
 
-* SPLASH: Systems, Programming, Languages and Applications: Software for Humanity (включая OOPSLA; [2016](http://2016.splashcon.org/), [2015](http://2015.splashcon.org/)) — ноябрь.
+* **PLDI**: Programming Language Design and Implementation ([2016](http://conf.researchr.org/home/pldi-2016), [2015](http://conf.researchr.org/home/pldi2015)) — июнь.
 
-* PLDI: Programming Language Design and Implementation ([2016](http://conf.researchr.org/home/pldi-2016), [2015](http://conf.researchr.org/home/pldi2015)) — июнь.
+* **ICFP**: The ACM SIGPLAN International Conference on Functional Programming ([сайт](http://www.icfpconference.org/)) + ценные страницы со списками конференций и семинаров “[related](http://www.icfpconference.org/related.html)” (часть из них перечислена в нашем списке) и “[affiliated](http://www.icfpconference.org/affiliated.html)” — сентябрь.
+
+* **SPLASH**: Systems, Programming, Languages and Applications: Software for Humanity (включая **OOPSLA**; [2016](http://2016.splashcon.org/), [2015](http://2015.splashcon.org/)) — ноябрь.
+
+### Другие достаточно крупные или «важные» конференции
+
+* **ECOOP**: European Conference on Object-Oriented Programming ([2015](http://2015.ecoop.org/)) — июль.
+
+* **SNAPL**: The Inaugural Summit on Advances in Programming Languages ([сайт](http://snapl.org/)) — [новая](http://lambda-the-ultimate.org/node/5067) конференция, впервые прошла в 2015, планируется проводить раз в два года; май.
+
+* **ETAPS**: The European Joint Conferences on Theory and Practice of Software ([сайт](http://www.etaps.org/)), особенно **ESOP** (European Symposium on Programming) — апрель.
 
 ### Декларативные, функциональные языки
 
-* PADL: Practical Aspects of Declarative Languages ([2016](http://conf.researchr.org/home/PADL-2016), [2015](http://www.cs.nmsu.edu/padl15/)) — январь.
+* **PADL**: Practical Aspects of Declarative Languages ([2016](http://conf.researchr.org/home/PADL-2016), [2015](http://www.cs.nmsu.edu/padl15/)) — январь.
 
-* MSFP: Workshop on Mathematically Structured Functional Programming ([2016](http://msfp2016.bentnib.org/)) — апрель раз в два года, в рамках [ETAPS](http://www.etaps.org/).
+* **MSFP**: Workshop on Mathematically Structured Functional Programming ([2016](http://msfp2016.bentnib.org/)) — апрель раз в два года, в рамках [ETAPS](http://www.etaps.org/).
 
-* PPDP: Principles and Practice of Declarative Programming ([2015](http://costa.ls.fi.upm.es/ppdp15/)) — июль.
+* **TFP**: Trends in Functional Programming ([сайт](http://www.tifp.org/)) — июнь, Великобритания.
 
-* ICFP: The ACM SIGPLAN International Conference on Functional Programming ([сайт](http://www.icfpconference.org/)) + ценные страницы со списками конференций и семинаров “[related](http://www.icfpconference.org/related.html)” (часть из них перечислена в нашем списке) и “[affiliated](http://www.icfpconference.org/affiliated.html)” — сентябрь.
+* **PPDP**: Principles and Practice of Declarative Programming ([WikiCfP](http://www.wikicfp.com/cfp/program?id=2390&f=Principles+and+Practice+of+Declarative+Programming), [2015](http://costa.ls.fi.upm.es/ppdp15/)) — июль.
 
-### Объектно-ориентированные языки
-
-* ECOOP: European Conference on Object-Oriented Programming ([2015](http://2015.ecoop.org/)) — июль.
-
-* OOPSLA: Object-Oriented Programming, Systems, Languages & Applications — см. выше SPLASH.
+* **IFL**: Symposium on Implementation and Application of Functional Languages ([сайт]()http://iflconference.org/) — август.
 
 ## Региональные конференции
 
-* SBLP: Brazilian Symposium on Programming Languages ([2016](http://cbsoft.org/sblp2016)) — сентябрь.
+* **SBLP**: Brazilian Symposium on Programming Languages ([2016](http://cbsoft.org/sblp2016)) — сентябрь.
 
-* APLAS: Asian Symposium on Programming Languages and Systems ([2016](http://soict.hust.edu.vn/~aplas2016/)) — ноябрь.
+* **APLAS**: Asian Symposium on Programming Languages and Systems ([2016](http://soict.hust.edu.vn/~aplas2016/)) — ноябрь.
 
 ## Российские конференции
 
-* CSR: International Computer Science Symposium in Russia ([2016](http://logic.pdmi.ras.ru/csr2016/), [2015](http://logic.pdmi.ras.ru/csr2015/)) — конференция с чётким уклоном в алгоритмы и сложность; июнь.
+* **CSR**: International Computer Science Symposium in Russia ([2016](http://logic.pdmi.ras.ru/csr2016/), [2015](http://logic.pdmi.ras.ru/csr2015/)) — конференция с чётким уклоном в алгоритмы и сложность; июнь.
 
-* PSI: Ершовская конференция по информатике «Перспективы систем информатики» ([сайт](http://psi.nsc.ru/)) — август.
+* **PSI**: Ершовская конференция по информатике «Перспективы систем информатики» ([сайт](http://psi.nsc.ru/)) — август.
 
-* Современные информационные технологии и ИТ-образование (секция «Теоретическая информатика и компьютерные науки», [сайт](http://conf.it-edu.ru/)) — ноябрь.
+* **СИТО**: Современные информационные технологии и ИТ-образование (секция «Теоретическая информатика и компьютерные науки», [сайт](http://conf.it-edu.ru/)) — ноябрь.
 
 * Открытая конференция по компиляторным технологиям ([сайт](http://opencompilersconf.ru/)) — декабрь.
 
