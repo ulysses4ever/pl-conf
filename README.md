@@ -81,7 +81,11 @@
 
 ## Студентам и молодым учёным
 
+На всех «главных» конференциях предусмотрено «студенческое волонтёрство», куда может подать любой имеющий отношение к академии человек и получить финансовую поддержку для очного участия в конференции. Полезность последнего для формирования представлений о ЯП как научной области, а также о карьерных перспективах, трудно переоценить.
+
 * ICFP SRC: Student Research Competition в рамках ICFP (см. выше).
+
+* BCTCS: British Colloquium for Theoretical Computer Science ([2017](https://bctcs2017.cs.st-andrews.ac.uk/)).
 
 * SYRCoSE: Spring/Summer Young Researchers' Colloquium on Software Engineering ([сайт](http://syrcose.ispras.ru/)) — ИСП РАН.
 
