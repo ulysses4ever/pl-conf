@@ -99,4 +99,5 @@
 
 Здесь хотелось бы собрать ссылки на наиболее значимые университетские научные группы, проводящие исследования в области языков программирования.
 
-* [Оксфорд, CS-департамент, групппа PL](http://www.cs.ox.ac.uk/research/pl/).
+* [Оксфорд, CS-департамент, группа PL](http://www.cs.ox.ac.uk/research/pl/).
+* [Northeastern University, Programming Research Lab.](http://prl.ccs.neu.edu/).
