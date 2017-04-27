@@ -18,9 +18,9 @@
 
 * **ECOOP**: European Conference on Object-Oriented Programming ([2015](http://2015.ecoop.org/)) — июль.
 
-* **SNAPL**: The Inaugural Summit on Advances in Programming Languages ([сайт](http://snapl.org/)) — [новая](http://lambda-the-ultimate.org/node/5067) конференция, впервые прошла в 2015, планируется проводить раз в два года; май.
-
 * **ETAPS**: The European Joint Conferences on Theory and Practice of Software ([сайт](http://www.etaps.org/)), особенно **ESOP** (European Symposium on Programming) — апрель.
+
+* **SNAPL**: The Inaugural Summit on Advances in Programming Languages ([сайт](http://snapl.org/)) — [новая](http://lambda-the-ultimate.org/node/5067) конференция, впервые прошла в 2015, планируется проводить раз в два года; май.
 
 ### Декларативные, функциональные языки
 
@@ -42,13 +42,22 @@
 
 ## Российские конференции
 
+Большиснтво из перечисленных ниже конференции (кроме PLC) имеет более широкую или смежную с (но не в точности) ЯП-тематику.
+
+* **TMPA**: Conference on tools and methods of program analysis ([сайт](http://tmpaconf.org/)) — март.
+
+* **PLC**: Языки программирования и компиляторы ([сайт](http://plc.sfedu.ru/)) — апрель.
+
 * **CSR**: International Computer Science Symposium in Russia ([2016](http://logic.pdmi.ras.ru/csr2016/), [2015](http://logic.pdmi.ras.ru/csr2015/)) — конференция с чётким уклоном в алгоритмы и сложность; июнь.
 
 * **PSI**: Ершовская конференция по информатике «Перспективы систем информатики» ([сайт](http://psi.nsc.ru/)) — август.
 
-* **СИТО**: Современные информационные технологии и ИТ-образование (секция «Теоретическая информатика и компьютерные науки», [сайт](http://conf.it-edu.ru/)) — ноябрь.
+* **СИТиИТО**: Современные информационные технологии и ИТ-образование (секция «Теоретическая информатика и компьютерные науки», [сайт](http://conf.it-edu.ru/)) — ноябрь.
 
-* Открытая конференция по компиляторным технологиям ([сайт](http://opencompilersconf.ru/)) — декабрь.
+### Конференции по разработке ПО с ориентацией на промышленность
+
+* **SECR** ([сайт](http://secr.ru/));
+* **FProg** ([сайт](http://fpconf.ru/)).
 
 ## Российские журналы
 
