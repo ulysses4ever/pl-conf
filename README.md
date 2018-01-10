@@ -24,15 +24,15 @@
 
 ### Декларативные, функциональные языки
 
-* **PADL**: Practical Aspects of Declarative Languages ([2016](http://conf.researchr.org/home/PADL-2016), [2015](http://www.cs.nmsu.edu/padl15/)) — январь.
+* **PADL**: Practical Aspects of Declarative Languages (последние годы совмещено с POPL; [2018](https://popl18.sigplan.org/track/PADL-2018), [2017](http://conf.researchr.org/home/PADL-2017)) — январь.
 
 * **MSFP**: Workshop on Mathematically Structured Functional Programming ([2016](http://msfp2016.bentnib.org/)) — апрель раз в два года, в рамках [ETAPS](http://www.etaps.org/).
 
 * **TFP**: Trends in Functional Programming ([сайт](http://www.tifp.org/)) — июнь, Великобритания.
 
-* **PPDP**: Principles and Practice of Declarative Programming ([WikiCfP](http://www.wikicfp.com/cfp/program?id=2390&f=Principles+and+Practice+of+Declarative+Programming), [2015](http://costa.ls.fi.upm.es/ppdp15/)) — июль.
+* **PPDP**: Principles and Practice of Declarative Programming ([2017](http://complogic.cs.mcgill.ca/ppdp2017/), [WikiCfP](http://www.wikicfp.com/cfp/program?id=2390&f=Principles+and+Practice+of+Declarative+Programming)) — июль.
 
-* **IFL**: Symposium on Implementation and Application of Functional Languages ([сайт]()http://iflconference.org/) — август.
+* **IFL**: Symposium on Implementation and Application of Functional Languages ([сайт](http://iflconference.org/) — август.
 
 ## Региональные конференции
 
@@ -95,9 +95,18 @@
 
 * Oregon: Летняя школа по ЯП в Орегоне ([сайт](http://www.cs.uoregon.edu/research/summerschool)) — июнь.
 
-## ЯП-отделения факультетов информатики
+## ЯП-отделения/лаборатории/группы факультетов информатики
 
-Здесь хотелось бы собрать ссылки на наиболее значимые университетские научные группы, проводящие исследования в области языков программирования.
+Здесь хотелось бы собрать ссылки на наиболее значимые университетские научные группы, проводящие исследования в области языков программирования, с упоминанием наиболее ярких представителей.
 
+### Европа
 * [Оксфорд, CS-департамент, группа PL](http://www.cs.ox.ac.uk/research/pl/).
-* [Northeastern University, Programming Research Lab.](http://prl.ccs.neu.edu/).
+
+### США
+* [PL group @ IU](http://wonks.github.io/) — Indiana U. (Daniel Friedman, Andrew Lumsdaine, Ryan Newton, Amr Sabry, Jeremy Siek, David Christiansen)
+* [PRL@NEU](http://prl.ccs.neu.edu/) — Northeastern U. (Amal Ahmed, Matthias Felleisen, Jan Vitek, Mitch Wand)
+* [PL club @ UPenn](https://www.cis.upenn.edu/~plclub/) — U. of Pennsylvania (Rajeev Alur, Benjamin Pierce, Stephanie Weirich, Steve Zdancewic)
+* [POP](http://www.cs.cmu.edu/Groups/pop/) — Carnegie Mellon U. (Jonathan Aldrich, Robert Harper, Frank Pfenning)
+* [PLUM](http://www.cs.umd.edu/projects/PL/) — U. of Maryland (Mike Hicks, David Van Horn, Niki Vazou)
+* [PurPL](https://purduepl.github.io/) — Purdue U. (Tiark Romf, Ben Delaware)
+* [PL + SE @ MIT CSAIL](http://projects.csail.mit.edu/pl/) — MIT (Adam Chlipala)
