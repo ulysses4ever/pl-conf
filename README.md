@@ -103,10 +103,10 @@
 * [Оксфорд, CS-департамент, группа PL](http://www.cs.ox.ac.uk/research/pl/).
 
 ### США
-* [PL group @ IU](http://wonks.github.io/) — Indiana U. (Daniel Friedman, Andrew Lumsdaine, Ryan Newton, Amr Sabry, Jeremy Siek)
-* [PRL@NEU](http://prl.ccs.neu.edu/) — Northeastern U. (Amal Ahmed, Matthias Felleisen, Jan Vitek, Mitch Wand)
+* [PL group @ IU](http://wonks.github.io/) — Indiana U. (Daniel Friedman, Andrew Lumsdaine, Amr Sabry, Jeremy Siek)
+* [PRL@NEU](http://prl.ccs.neu.edu/) — Northeastern U. (Amal Ahmed, Matthias Felleisen)
 * [PL club @ UPenn](https://www.cis.upenn.edu/~plclub/) — U. of Pennsylvania (Rajeev Alur, Benjamin Pierce, Stephanie Weirich, Steve Zdancewic)
-* [POP](http://www.cs.cmu.edu/Groups/pop/) — Carnegie Mellon U. (Jonathan Aldrich, Robert Harper, Frank Pfenning)
-* [PLUM](http://www.cs.umd.edu/projects/PL/) — U. of Maryland (Mike Hicks, David Van Horn, Niki Vazou)
-* [PurPL](https://purduepl.github.io/) — Purdue U. (Tiark Romf, Ben Delaware)
+* [POP](http://www.cs.cmu.edu/Groups/pop/) — Carnegie Mellon U. (Jonathan Aldrich, Robert Harper, Frank Pfenning, Stephanie Balzer)
+* [PLUM](http://www.cs.umd.edu/projects/PL/) — U. of Maryland (Mike Hicks, David Van Horn)
+* [PurPL](https://purduepl.github.io/) — Purdue U. (Tiark Romf, Samantha Roopsha, Ben Delaware)
 * [PL + SE @ MIT CSAIL](http://projects.csail.mit.edu/pl/) — MIT (Adam Chlipala)
